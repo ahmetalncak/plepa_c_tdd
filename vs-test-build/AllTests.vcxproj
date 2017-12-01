@@ -135,6 +135,7 @@
   <ItemGroup>
     <ClCompile Include="..\tests\AllTests.cpp" />
     <ClCompile Include="..\tests\ExampleTest.cpp" />
+    <ClCompile Include="..\tests\MyStrStrTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="ProductionCodeLib.vcxproj">

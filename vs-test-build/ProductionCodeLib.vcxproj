@@ -109,6 +109,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\src\Example.c" />
+    <ClCompile Include="..\src\MyStrStr.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\mystrstr.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
